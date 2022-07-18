@@ -1,6 +1,6 @@
 - 👋 Hey there, myself Jatin Sharma from India
 - 👀 I’m quite interested in Computing and Programming
-- 🎮 Also, I am very much into Gaming 
+- 🎮 Also, I am little bit into Gaming 
 - 🌱 I’m currently pursuing B.Tech.(CSE) from NIIT University
 - 📜 I have done certificate courses in App Development and Web Development 
 - 📫 You can reach out to me through mail: mastjoy10@gmail.com
