@@ -10,7 +10,7 @@
 - 🚀 **Always Learning**: Currently diving deeper into full-stack development
 - 📚 **Aspiring Graduate Student**: Preparing for a journey in higher education
   
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 Here are the tools and technologies I enjoy working with:
 
